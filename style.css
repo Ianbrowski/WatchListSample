@@ -118,12 +118,12 @@ label:hover {
 @media (max-width: 600px) {
     .container {
         padding: 15px;
+        width: 90%;
     }
 
     .card {
         padding: 10px;
-        width:auto;
-        margin:auto;
+        
     }
 
     header h1 {
